@@ -1,0 +1,13 @@
+# Maxfiy kalitlar hech qachon commit qilinmaydi
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Test/outpu artefaktlari
+_gui_log.txt
+_shot.png
+_shot_test.py
